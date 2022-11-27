@@ -183,7 +183,7 @@ class MessageEmbed {
   	this.fields.push({name, value, inline});
   	return this;
   }
-  
+
   /**
   * Sets the Embed footer.
   * @param {String} text - The text for footer to set.

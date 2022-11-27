@@ -1,2 +1,3 @@
 # EmojiGG Support Bot
->> https://guilded.gg/i/emojis
+>> [Guilded Invite](https://www.guilded.gg/i/EoemO1Bk)
+
