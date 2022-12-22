@@ -41,7 +41,7 @@ client.on("messageCreated", async(message) => {
 		break;
 	}
     }
-    if (message.content === "e!status") {
+    if (cmd === "stats") {
 	await EmojiGG.stats().then(res =>{
 	let embed = new EmbedBuilder()
 		.setTitle("EmojiGG Stats")
